@@ -1,0 +1,33 @@
+
+   
+  
+
+    .title{
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-align:center;
+    width: 210px;
+    color:#35060b;
+    border: solid black 1px;
+    
+    }
+
+    input[type="button"]
+    {
+    border-radius: 10px;
+    background-color:#5a663a;
+    color: black;
+    border-color:#a18833 ;
+    width:100%;
+    
+    }
+
+    input[type="text"]
+    {
+    border-radius: 10px;
+    text-align: right;
+    background-color:white;
+    border-color: black ;
+    width:95%
+    
+    }
